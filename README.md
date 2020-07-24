@@ -4,3 +4,8 @@ fonction()
 (
     return ok
 )
+
+fonction()
+(
+    return 
+)
